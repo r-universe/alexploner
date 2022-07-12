@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Heatplus"]
-	path = Heatplus
-	url = https://github.com/alexploner/heatplus
-	shallow = true
-	registered = true
